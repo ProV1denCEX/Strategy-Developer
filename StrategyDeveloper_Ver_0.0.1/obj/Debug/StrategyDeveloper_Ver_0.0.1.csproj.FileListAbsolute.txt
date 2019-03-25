@@ -1,0 +1,12 @@
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\bin\Debug\StrategyDeveloper_Ver_0.0.1.exe.config
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\bin\Debug\StrategyDeveloper_Ver_0.0.1.exe
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\bin\Debug\StrategyDeveloper_Ver_0.0.1.pdb
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0.0.1.csprojResolveAssemblyReference.cache
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0._0._1.Properties.Resources.resources
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0.0.1.csproj.GenerateResource.Cache
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0.0.1.exe
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0.0.1.pdb
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0._0._1.ConfigForm.resources
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0._0._1.LoginForm.resources
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0._0._1.AboutForm.resources
+E:\C#学习\Z.Project.Neo\StrategyDeveloper_Ver_0.0.1\StrategyDeveloper_Ver_0.0.1\obj\Debug\StrategyDeveloper_Ver_0._0._1.PurchaseForProEditionForm.resources

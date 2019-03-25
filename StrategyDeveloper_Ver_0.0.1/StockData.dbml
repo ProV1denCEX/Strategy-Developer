@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Alpha" Class="StockDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=FullFrontal;Initial Catalog=Alpha;Integrated Security=True" SettingsObjectName="StrategyDeveloper_Ver_0._0._1.Properties.Settings" SettingsPropertyName="AlphaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[000001]" Member="_000001">
+    <Type Name="_000001">
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Oppr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Hipr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Lopr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Clpr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="Trdsum" Type="System.Decimal" DbType="Decimal(19,2)" CanBeNull="true" />
+      <Column Name="Trdvol" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Alpha120d" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="Beta120d" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="StockRate" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="AdjOppr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjHipr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjLopr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Adjclpr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="DCFacPr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="CsrcIcCd1" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FullShr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Trdshr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[000007]" Member="_000007">
+    <Type Name="_000007">
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Oppr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Hipr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Lopr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Clpr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="Trdsum" Type="System.Decimal" DbType="Decimal(19,2)" CanBeNull="true" />
+      <Column Name="Trdvol" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Alpha120d" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="Beta120d" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="StockRate" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="AdjOppr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjHipr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjLopr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjClpr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="DCFacPr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="CsrcIcCd1" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FullShr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Trdshr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[002685]" Member="_002685">
+    <Type Name="_002685">
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Oppr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Hipr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Lopr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Clpr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="Trdsum" Type="System.Decimal" DbType="Decimal(19,2)" CanBeNull="true" />
+      <Column Name="Trdvol" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="AdjOppr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjHipr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjLopr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjClpr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="DCFacPr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="CsrcIcCd1" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FullShr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Trdshr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[000835]" Member="_000835">
+    <Type Name="_000835">
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Oppr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Hipr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Lopr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Clpr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="Trdsum" Type="System.Decimal" DbType="Decimal(19,2)" CanBeNull="true" />
+      <Column Name="Trdvol" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="AdjOppr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjHipr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjLopr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjClpr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="DCFacPr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="CsrcIcCd1" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FullShr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Trdshr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[600804]" Member="_600804">
+    <Type Name="_600804">
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Oppr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Hipr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Lopr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Clpr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="Trdsum" Type="System.Decimal" DbType="Decimal(19,2)" CanBeNull="true" />
+      <Column Name="Trdvol" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="AdjOppr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjHipr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjLopr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjClpr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="DCFacPr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="CsrcIcCd1" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FullShr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Trdshr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[300342]" Member="_300342">
+    <Type Name="_300342">
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Oppr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Hipr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Lopr" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="Clpr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="Trdsum" Type="System.Decimal" DbType="Decimal(19,2)" CanBeNull="true" />
+      <Column Name="Trdvol" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="AdjOppr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjHipr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjLopr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="AdjClpr2" Type="System.Decimal" DbType="Decimal(11,4)" CanBeNull="true" />
+      <Column Name="DCFacPr" Type="System.Decimal" DbType="Decimal(14,4)" CanBeNull="true" />
+      <Column Name="CsrcIcCd1" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FullShr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+      <Column Name="Trdshr" Type="System.Decimal" DbType="Decimal(20,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
